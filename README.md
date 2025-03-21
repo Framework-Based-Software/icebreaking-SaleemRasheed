@@ -4,7 +4,7 @@ Hi! I'm Salim Abdulrasheed Sani, a student in the Framework-Based Software Desig
 
 I'm really focused on mastering design patterns, frameworks, and architectures in software design. My goal is to boost my skills so I can build applications that are not just efficient, but also scalable and easy to maintain.
 
-![My Image](saleem.jpg)  <!-- Link to the uploaded image -->
+![Image](https://github.com/user-attachments/assets/0f6bf341-7a29-400e-af4f-e1cb7d9cabbc)
 
 ## GitHub Profile
 
